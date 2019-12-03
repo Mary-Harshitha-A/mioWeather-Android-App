@@ -11,3 +11,16 @@ This fragment has three card view
 cardview1 - Current locations weather data
 cardview2 - breif view of forecasts for every three hours for the next five days also contains a button, (Details) which navigates user to detailed forecast activity
 cardview3 - weather info of current location
+
+ForecastFragment
+Adapter - ForecastAdapter
+
+ForecastDetailActivity
+Adapter - ForecastDetailAdapter
+
+AppIntro
+-AppIntro
+-IntroViewPagerAdapter
+-ScreenItem
+
+
